@@ -4,3 +4,4 @@ third line in file
 fourth line in file
 fifth line in file
 sixth line in file
+seventh line in file
